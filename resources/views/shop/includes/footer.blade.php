@@ -11,7 +11,7 @@
                         <li>Phone: +65 11.188.888</li>
                         <li>Email: hello@colorlib.com</li>
                     </ul>
-                </div> 
+                </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 offset-lg-1">
                 <div class="footer__widget">
@@ -63,3 +63,17 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
         </div>
     </div>
 </footer>
+<script src="{{ asset('admin/js/jquery-3.3.1.min.js')}}"></script>
+<script src="{{ asset('admin/js/bootstrap.min.js')}}"></script>
+<script src="{{ asset('admin/js/jquery.nice-select.min.js')}}"></script>
+<script src="{{ asset('admin/js/jquery-ui.min.js')}}"></script>
+<script src="{{ asset('admin/js/jquery.slicknav.js')}}"></script>
+<script src="{{ asset('admin/js/mixitup.min.js')}}"></script>
+<script src="{{ asset('admin/js/owl.carousel.min.js')}}"></script>
+<script src="{{ asset('admin/js/main.js')}}"></script>
+
+
+
+</body>
+
+</html>
